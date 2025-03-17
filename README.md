@@ -8,42 +8,42 @@ The platform provides **structured roadmaps**, **hands-on learning resources**, 
 ## 🔥 Features  
 
 ### 1️⃣ Personalized Career Guidance 🎯  
-- ✅ Choose between **Coding** 💻 and **Data Science** 📊 domains.  
-- ✅ Follow a **step-by-step roadmap** tailored to your chosen domain.  
+- Choose between **Coding** 💻 and **Data Science** 📊 domains.  
+- Follow a **step-by-step roadmap** tailored to your chosen domain.  
 
 ### 2️⃣ AI Chatbot 🤖  
-- ✅ Get **instant career advice** and answers to your questions.  
-- ✅ **24/7 AI assistance** for guidance on roadmaps, resources, and learning strategies.  
-- ✅ **Interactive chat** for doubt resolution and personalized recommendations.  
+- Get **instant career advice** and answers to your questions.  
+- **24/7 AI assistance** for guidance on roadmaps, resources, and learning strategies.  
+- **Interactive chat** for doubt resolution and personalized recommendations.  
 
 ### 3️⃣ Level-Based Learning 📚  
-- ✅ Each **level** focuses on a **specific skill** or **topic**.  
-- ✅ Detailed **explanations**, **key concepts**, and **practical examples**.  
+- Each **level** focuses on a **specific skill** or **topic**.  
+- Detailed **explanations**, **key concepts**, and **practical examples**.  
 
 ### 4️⃣ Resource Hub 📖  
-- ✅ **Free Notes** 📝: Concise & easy-to-understand notes for each topic.  
-- ✅ **Open URL Links** 🔗: External resources for deeper learning.  
-- ✅ **YouTube Videos** ▶️: Curated tutorials from trusted creators.  
+- **Free Notes** 📝: Concise & easy-to-understand notes for each topic.  
+- **Open URL Links** 🔗: External resources for deeper learning.  
+- **YouTube Videos** ▶️: Curated tutorials from trusted creators.  
 
 ### 5️⃣ Hands-On Projects 🛠️  
-- ✅ Build **real-world projects** (e.g., **portfolio website**, **weather app**).  
-- ✅ Apply your knowledge and **showcase your skills**.  
+- Build **real-world projects** (e.g., **portfolio website**, **weather app**).  
+- Apply your knowledge and **showcase your skills**.  
 
 ### 6️⃣ Progress Tracking 📊  
-- ✅ **Track your progress** and unlock new levels as you complete previous ones.  
-- ✅ Uses **localStorage** to **save your progress**.  
+- **Track your progress** and unlock new levels as you complete previous ones.  
+- Uses **localStorage** to **save your progress**.  
 
 ### 7️⃣ Community Engagement 🌍  
-- ✅ Join **coding communities** (e.g., **GitHub**, **Stack Overflow**, **Reddit**).  
-- ✅ **Share** your projects & progress with others.  
+- Join **coding communities** (e.g., **GitHub**, **Stack Overflow**, **Reddit**).  
+- **Share** your projects & progress with others.  
 
 ---
 
 ## ⚙️ Technologies Used  
-- 💻 **Frontend**: HTML, CSS (**Tailwind CSS**), JavaScript  
-- 🤖 **AI Chatbot**: OpenAI API / Dialogflow (for interactive guidance)  
-- 🚫 **Backend**: None (**Static Website**)  
-- 🚀 **Deployment**: **GitHub Pages**, **Netlify**, or **Vercel**  
+- **Frontend**: HTML, CSS (**Tailwind CSS**), JavaScript  
+- **AI Chatbot**: OpenAI API (for interactive guidance)  
+- **Backend**: Local Storage 
+- **Deployment**: **GitHub Pages**  
 
 ---
 
@@ -72,10 +72,19 @@ The platform provides **structured roadmaps**, **hands-on learning resources**, 
 
 ## 🙌 Acknowledgments  
 
-- 🎨 **Tailwind CSS**: For the **responsive & modern design**.  
-- 📖 **freeCodeCamp, W3Schools, JavaScript.info**: For providing **free learning resources**.  
-- 📺 **YouTube Creators**: Corey Schafer, Traversy Media, and others for their amazing tutorials.  
-- 🤖 **OpenAI / Dialogflow**: For enabling the AI chatbot.  
+- **Tailwind CSS**: For the **responsive & modern design**.  
+- **freeCodeCamp, W3Schools, JavaScript.info**: For providing **free learning resources**.  
+- **YouTube Creators**: Corey Schafer, Traversy Media, and others for their amazing tutorials.  
+- **OpenAI / Dialogflow**: For enabling the AI chatbot.  
+
+---
+
+## 📬 Contact  
+If you have any questions or suggestions, feel free to reach out!  
+
+**Poorvi Gupta**  
+📧 **Email**: [poorviguptacom@gmail.com](mailto:poorviguptacom@gmail.com)  
+🔗 **LinkedIn**: [Poorvi Gupta](https://www.linkedin.com/in/poorvi-gupta-a817032a0)  
 
 ---
 
