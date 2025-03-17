@@ -50,7 +50,7 @@ The platform provides **structured roadmaps**, **hands-on learning resources**, 
 ## 🛠️ How to Use  
 
 ### 1️⃣ Visit the Website 🌐  
-🔗 Open the live website: **[MargNiti Live Demo](#)**  
+🔗 Open the live website: **[MargNiti Live Demo](https://palaksharma1432.github.io/MargNiti/signin.html)**  
 
 ### 2️⃣ Sign Up ✍️  
 📩 Enter your **name**, **email**, and **choose a domain** (Coding or Data Science).  
