@@ -40,7 +40,7 @@ Share your projects & progress with others.<br>
 
 ## 🛠️ How to Use
 **1️⃣ Visit the Website 🌐**<br>
-🔗 Open the live website: MargNiti Live Demo<br><br>
+🔗 Open the live website: [MargNiti Live Demo](https://palaksharma1432.github.io/MargNiti/signin.html)<br><br>
 
 **2️⃣ Sign Up ✍️**<br>
 📩 Enter your name, email, and choose a domain.<br><br>
